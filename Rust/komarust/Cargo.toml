@@ -1,0 +1,15 @@
+[package]
+name = "komarust"
+version = "0.1.0"
+edition = "2022"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+telegram-bot = "0.6"
+tokio-core = "0.1.17"
+futures = "0.1.23"
+
+[[bin]]
+name = "main"
+path = "src/main.rs"
