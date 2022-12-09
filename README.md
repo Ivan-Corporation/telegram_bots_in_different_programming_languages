@@ -1,5 +1,5 @@
 <div align='center'>
-<h1>Telegram bots on 12 Programming languages</h1>
+<h1>Telegram bots on different programming languages</h1>
 
 <h2>Ruby</h2>
 <img src='./screenshots/ruby.png'/>
